@@ -1,0 +1,29 @@
+﻿body {margin:0;padding:0;word-wrap:break-word;}
+img {border:none;}
+input {border:1px solid black;border-radius:2px;padding:0;}
+input[type=image] { border: none; }
+textarea {border:1px solid black;padding:0;}
+* {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
+a:link {color:#393939;text-decoration:none;}
+a:active {color:#393939;text-decoration:none;}
+a:hover {color:#393939;text-decoration:none;}
+a:visited {color:#393939;text-decoration:none;}
+.DefaultParagraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal2 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Slider-Heading { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Slider-Title { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:64.0px;vertical-align:0; }
+.ui-date_1-widget { font-family: Arial,sans-serif; font-size: 17.6px; }
+.ui-date_1-widget .ui-date_1-widget { font-size: 16.0px; }
+.ui-date_1-widget input, .ui-date_1-widget select, .ui-date_1-widget textarea, .ui-date_1-widget button { font-family: Arial,sans-serif; font-size: 16.0px; }
+.ui-date_1-widget-content { border: #aaaaaa; background: #ffffff; color: #222222; }
+.ui-date_1-widget-content a { color: #222222; }
+.ui-date_1-widget-header { border: #aaaaaa; background: #cccccc; color: #222222; }
+.ui-date_1-widget-header a { color: #222222; }
+.ui-date_1-state-default, .ui-date_1-widget-content .ui-date_1-state-default, .ui-date_1-widget-header .ui-date_1-state-default { border: #aaaaaa; background: #e6e6e6; color: #555555; }
+.ui-date_1-state-default a, .ui-date_1-state-default a:link, .ui-date_1-state-default a:visited { color: #555555; }
+.ui-date_1-state-active, .ui-date_1-widget-content .ui-date_1-state-active, .ui-date_1-widget-header .ui-date_1-state-active { border: #aaaaaa; background: #dadada; color: #212121; }
+.ui-date_1-state-hover, .ui-date_1-widget-content .ui-date_1-state-hover, .ui-date_1-widget-header .ui-date_1-state-hover, .ui-date_1-state-focus, .ui-date_1-widget-content .ui-date_1-state-focus, .ui-date_1-widget-header .ui-date_1-state-focus { border: #aaaaaa; background: #dadada; color: #212121; }
+.ui-date_1-state-hover a, .ui-date_1-state-hover a:hover { color: #212121; }
+.ui-date_1-state-active a, .ui-date_1-state-active a:link, .ui-date_1-state-active a:visited { color: #212121; }
+.ui-date_1-icon { width: 16px; height: 16px; background-image: url('date_1-datepickerui.png'); }
